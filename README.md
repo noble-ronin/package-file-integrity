@@ -79,4 +79,4 @@ gives you what guarantee, and at what resolution.
 ## Related
 
 - [`package-hallucination-check`](https://github.com/noble-ronin/package-hallucination-check) — checking whether an AI-recommended package name is real, a decoy, or a cleaned-up attack.
-- Pairs with the dev.to article: [I Found a Fourth Package Registry My Sandbox Could Reach](https://dev.to/ronin13/i-found-a-fourth-package-registry-my-sandbox-could-reach-it-checksums-every-file-not-just-the-tarball).
+- Pairs with the dev.to article: [I Found a Fourth Package Registry My Sandbox Could Reach](https://dev.to/ronin13/i-found-a-fourth-package-registry-my-sandbox-could-reach-it-checksums-every-file-not-just-the-4jpf).
